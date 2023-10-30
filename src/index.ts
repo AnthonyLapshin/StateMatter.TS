@@ -1,4 +1,6 @@
-export { Uuid } from './helpers/uuid';
-import uuid from './helpers/uuid';
-
-export default uuid;
+/**
+ * A state machine library
+ */
+export default class StateMachine{
+    
+}
